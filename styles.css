@@ -1,0 +1,69 @@
+.navbar-brand{
+    margin-bottom:7px;
+}
+
+h1{
+    text-align:center;
+    margin-bottom:2.5%
+}
+
+.mifflin{
+    text-align:center;
+    width:35%;
+    margin-left:33%;
+    margin-bottom:10vh;
+}
+
+.two-people{
+    max-width:38%;
+    border-style: solid;
+    border-color:  gray;
+    border-radius: 2% 0 0 2%;
+    padding-bottom: 3%;
+    padding-top: 3%
+}
+
+.useful-info{
+    background-color:blue;
+    border-radius: 0 2% 2% 0
+}
+
+.collect{
+    color:white;
+    margin-top: 13vh;
+    margin-right: 40vh;
+    margin-bottom:10vh
+}
+
+.dunder-info{
+    color:white;
+    margin-left:5vh;
+    text-align:left   
+}
+
+.schrute{
+    text-align:center;
+    margin-right:65vh;
+    margin-left:65vh;
+    margin-top:16vh;
+    margin-bottom:10vh
+}
+
+
+.one-person{
+    max-width:38%;
+    padding-bottom: 3%;
+    padding-top: 3%
+}
+
+.take-payments{
+    height:49vh;
+    padding-left:7vh
+}
+
+.paid-sooner{
+    color:white;
+    font-size:6vh;
+    margin-top:12vh;
+    margin-bottom:10vh
+}
