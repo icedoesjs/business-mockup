@@ -1,0 +1,99 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    cursor: default;
+}
+
+.navbar-brand{
+    margin-bottom:7px;
+}
+
+img{
+    height:100x;
+    width:100px;
+    border-radius: 35%;
+}
+
+.employees{
+    text-align: center;    
+}
+.employee_container{
+    margin: 50px;
+    padding:25px;
+}
+
+.employee1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: 700;
+    color: #1BADFB;
+}
+
+.employee2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.receptionist {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.hr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.customer-service {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.sales_team{
+    text-align: center;
+    
+}
+
+figcaption {
+    color: #1BADFB;
+}
+
+.sales {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.finance {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.finance_department {
+    text-align: center;
+}
