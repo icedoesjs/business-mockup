@@ -1,3 +1,5 @@
+/* Ashley's CSS */
+
 *{
     margin: 0px;
     padding: 0px;
@@ -146,7 +148,7 @@ h3{
     grid-template-rows: 1fr 1fr 1fr;
     gap: 5px;
     grid-auto-flow: row;
-    margin: 20px;
+    margin: 10px;
     background-color: rgb(243, 243, 243);
     border-radius: 15%;
 }
@@ -291,7 +293,7 @@ h3{
 }
 
 .useful-info{
-    background-color:blue;
+    background-color: #0089cf;
     border-radius: 0 2% 2% 0
 }
 
