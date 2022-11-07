@@ -67,3 +67,50 @@ h1{
     margin-top:12vh;
     margin-bottom:10vh
 }
+
+.explore{
+    margin-top:8vh;
+}
+
+.tracking{
+    text-align:center;
+    margin-bottom:5vh
+}
+
+.dollar-sign{
+    width:7vh;
+    background-color:white;
+    margin-top:3vh;
+    margin-bottom:1.6vh;
+    margin-left:2vh;
+    margin-right:2vh;
+    border-radius:4vh
+}
+
+.circle-head{
+    width:7vh;
+    background-color:white;
+    margin-top:3.6vh;
+    margin-bottom:1vh;
+    margin-left:2vh;
+    margin-right:2vh;
+    border-radius:4vh
+}
+
+.rising-bars{
+    width:7vh;
+    background-color:white;
+    margin-top:3vh;
+    margin-bottom:1.1vh;
+    margin-left:2vh;
+    margin-right:2vh;
+}
+
+.opposite-arrows{
+    width:7vh;
+    background-color:white;
+    margin-top:4.2vh;
+    margin-bottom:2vh;
+    margin-left:2vh;
+    margin-right:2vh;
+}

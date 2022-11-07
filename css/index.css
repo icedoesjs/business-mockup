@@ -142,7 +142,7 @@ h3{
     flex-grow: 0;
 }
 
-.container {  
+.container-start {  
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
